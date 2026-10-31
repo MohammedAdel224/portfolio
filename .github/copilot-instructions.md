@@ -16,6 +16,7 @@ This project includes reusable agent skills for frontend design and UX polish:
 - `content-strategy`
 - `browser-qa`
 - `portfolio-launch-readiness`
+- `git-github`
 
 ## Project goals
 - Use accessible semantic HTML and meaningful text content.
