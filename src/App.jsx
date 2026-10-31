@@ -136,7 +136,7 @@ function App() {
               <a className="button button-primary" href="#work">
                 See selected work <ArrowUpRight size={18} />
               </a>
-              <a className="button button-outline" href="https://drive.google.com/file/d/1nKgrJgujYkIBCyRJ16xY6UQWJKQPWzsM/view" target="_blank" rel="noreferrer">
+              <a className="button button-outline" href="https://drive.google.com/uc?export=download&id=1nKgrJgujYkIBCyRJ16xY6UQWJKQPWzsM">
                 Download CV <ArrowUpRight size={16} />
               </a>
               <a className="text-link" href="https://www.linkedin.com/in/mohammed-adel-62432721" target="_blank" rel="noreferrer">
