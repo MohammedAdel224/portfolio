@@ -1,0 +1,5 @@
+﻿steps:
+  - name: Install dependencies
+    run: npm install
+  - name: Validate production build
+    run: npm run build
