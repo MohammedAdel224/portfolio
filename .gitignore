@@ -11,6 +11,8 @@ node_modules
 dist
 dist-ssr
 *.local
+Mohammed Adel _ CV.pdf
+!public/Mohammed Adel _ CV.pdf
 
 # Editor directories and files
 .vscode/*
