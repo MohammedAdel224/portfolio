@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
   <title>MA</title>
   <rect width="64" height="64" rx="16" fill="#050817"/>
-  <circle cx="29" cy="34" r="20" fill="none" stroke="#a5b4fc" stroke-width="2"/>
-  <circle cx="35" cy="28" r="20" fill="none" stroke="#818cf8" stroke-opacity=".55" stroke-width="2"/>
-  <text x="32" y="37" fill="#a5b4fc" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="900" letter-spacing="-2" text-anchor="middle">MA</text>
+  <circle cx="29" cy="28" r="20" fill="none" stroke="#818cf8" stroke-opacity=".55" stroke-width="1"/>
+  <circle cx="33" cy="32" r="20" fill="none" stroke="#a5b4fc" stroke-width="1"/>
+  <text x="32" y="37" fill="#a5b4fc" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="900" letter-spacing="-2" text-anchor="middle">MA</text>
 </svg>
