@@ -139,7 +139,7 @@ function App() {
               <a className="button button-outline" href="https://drive.google.com/uc?export=download&id=1nKgrJgujYkIBCyRJ16xY6UQWJKQPWzsM">
                 Download CV <ArrowUpRight size={16} />
               </a>
-              <a className="text-link" href="https://www.linkedin.com/in/mohammed-adel-62432721" target="_blank" rel="noreferrer">
+              <a className="text-link" href="https://www.linkedin.com/in/mohammed-adel-62432721b/" target="_blank" rel="noreferrer">
                 LinkedIn <ArrowUpRight size={16} />
               </a>
             </div>
@@ -243,7 +243,7 @@ function App() {
             </a>
             <div className="social-row">
               <a href="https://github.com/MohammedAdel224" target="_blank" rel="noreferrer" aria-label="GitHub" title="GitHub"><FaGithub size={18} /></a>
-              <a href="https://www.linkedin.com/in/mohammed-adel-62432721" target="_blank" rel="noreferrer" aria-label="LinkedIn" title="LinkedIn"><FaLinkedinIn size={18} /></a>
+              <a href="https://www.linkedin.com/in/mohammed-adel-62432721b/" target="_blank" rel="noreferrer" aria-label="LinkedIn" title="LinkedIn"><FaLinkedinIn size={18} /></a>
             </div>
           </div>
         </motion.section>
